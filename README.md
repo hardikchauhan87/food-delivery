@@ -1,1 +1,1 @@
-# full-stack
+this repository is for my MERN projects
