@@ -1,1 +1,1 @@
-this repository is for my MERN projects
+This repository is for my MERN Projects
